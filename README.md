@@ -1,4 +1,4 @@
-### Hi, iam Bruno Paiva
+### Hi, i am Bruno Paiva
 
 <div align="center">
   <a href="https://github.com/brunopaiva1">
