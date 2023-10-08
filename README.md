@@ -11,7 +11,7 @@
   <img align="center" alt="Bruno-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Bruno-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Bruno-Ju" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Bruno-Dj" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
 <!--   <img align="center" alt="Bruno-Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Bruno-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div> -->
