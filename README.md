@@ -1,9 +1,9 @@
 
 <p align="center">Hello, my name is Bruno Paiva and I am a Requirements Analyst at Altotech, in addition to carrying out scientific research in high performance computing.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+<div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=brunopaiva1&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-brunopaiva.vercel.app/api/top-langs/?username=brunopaiva&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-brunopaiva1.vercel.app/api/top-langs/?username=brunopaiva1&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
