@@ -1,5 +1,5 @@
 
-<p align="center">Hello, my name is Bruno Paiva and I am SCRUM Master at Altotech, in addition to carrying out scientific research in high performance computing.</p>&nbsp;
+<p align="center">Hello, my name is Bruno Paiva and I am SCRUM Master at Altotech Juniors, in addition to carrying out scientific research in high performance computing.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=brunopaiva1&theme=radical&mode=weekly" />
