@@ -21,7 +21,7 @@
 ![C](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-993399?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
 ![Q#](https://img.shields.io/badge/Q%23-0078D4?style=for-the-badge&logo=qsharp&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
