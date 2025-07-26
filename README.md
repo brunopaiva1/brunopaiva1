@@ -17,7 +17,7 @@
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/django-FFFFFF?style=for-the-badge&logo=django&logoColor=black)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-993399?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/Csharp-9400d3?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
