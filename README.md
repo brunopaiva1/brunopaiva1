@@ -19,6 +19,7 @@
 ![C](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-993399?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
 ![OpenMP](https://img.shields.io/badge/OpenMP-ED9D2B?style=for-the-badge&logo=openmp&logoColor=white)&nbsp;
+![MPI](https://img.shields.io/badge/MPI-003B71?style=for-the-badge)&nbsp;
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
