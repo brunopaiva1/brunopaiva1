@@ -21,6 +21,7 @@
 ![OpenMP](https://img.shields.io/badge/OpenMP-ED9D2B?style=for-the-badge&logo=openmp&logoColor=white)&nbsp;
 ![MPI](https://img.shields.io/badge/MPI-003B71?style=for-the-badge)&nbsp;
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![Q#](https://img.shields.io/badge/Q%23-0078D4?style=for-the-badge&logo=qsharp&logoColor=white)&nbsp;
@@ -33,7 +34,9 @@
 
 #### Databases:
 
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
