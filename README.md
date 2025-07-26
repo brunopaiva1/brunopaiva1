@@ -22,6 +22,7 @@
 ![MPI](https://img.shields.io/badge/MPI-003B71?style=for-the-badge)&nbsp;
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![Q#](https://img.shields.io/badge/Q%23-0078D4?style=for-the-badge&logo=qsharp&logoColor=white)&nbsp;
@@ -41,8 +42,9 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=black)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 &nbsp;
