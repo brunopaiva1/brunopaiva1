@@ -1,5 +1,5 @@
 
-<p align="center">Hello, my name is Bruno Paiva, I am a scientific researcher in high performance computing (HPC), as well as the founder of the company S/CODE.</p>&nbsp;
+<p align="center">Hello, my name is Bruno Paiva, I am a scientific researcher in High-Performance Computing (HPC), as well as the founder of the company S/CODE.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=brunopaiva1&theme=radical&mode=weekly" />
