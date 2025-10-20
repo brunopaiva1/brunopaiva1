@@ -1,5 +1,8 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=7F56D9&center=true&vCenter=true&width=600&lines=Hello+world+!;I+am+Bruno+Paiva;HPC,+Deep+Learning+%26+Quantum+Computing"/>
+</p>
 
-<p align="center">Hello, my name is Bruno Paiva. I am a scientific researcher in High-Performance Computing (HPC), focusing on deep learning and quantum computing, as well as a cybersecurity expert and forensic researcher. I am also the founder of the company S/CODE, where I apply advanced computational techniques to solve complex problems in security, data analysis, and technological innovation..</p>&nbsp;
+
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=brunopaiva1&theme=radical&mode=weekly" />
