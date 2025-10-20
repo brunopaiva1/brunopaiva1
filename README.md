@@ -32,7 +32,9 @@
 ![OpenMP](https://img.shields.io/badge/OpenMP-ED9D2B?style=for-the-badge&logoColor=white)&nbsp;
 ![MPI](https://img.shields.io/badge/MPI-003B71?style=for-the-badge&logoColor=white)&nbsp;
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
+![OpenACC](https://img.shields.io/badge/OpenACC-DA291C?style=for-the-badge&logoColor=white)&nbsp;
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![Q#](https://img.shields.io/badge/Q%23-0078D4?style=for-the-badge&logo=qsharp&logoColor=white)&nbsp;
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)&nbsp;
 ![PennyLane](https://img.shields.io/badge/PennyLane-FF4081?style=for-the-badge&logoColor=white)&nbsp;
